@@ -202,7 +202,7 @@ int main(void) {
                 printf("Invalid");
         }
 
-    }while (menu != 8);
+    }while (menu != 6);
     return 0;
 }
 
