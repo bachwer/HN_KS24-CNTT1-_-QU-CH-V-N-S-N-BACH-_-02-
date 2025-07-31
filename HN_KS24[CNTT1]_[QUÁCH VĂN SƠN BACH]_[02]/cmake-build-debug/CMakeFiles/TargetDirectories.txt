@@ -1,0 +1,3 @@
+/Users/macbook/Documents/thi/cmake-build-debug/CMakeFiles/thi.dir
+/Users/macbook/Documents/thi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbook/Documents/thi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
